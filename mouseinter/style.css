@@ -1,0 +1,15 @@
+body{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+    width: 25rem;
+    background-color: darkorchid;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+   
+}

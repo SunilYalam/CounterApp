@@ -1,5 +1,5 @@
-const bT = document.getElementById("box");
+const dbl = document.getElementById("box");
 
-bT.addEventListener("dblclick", function () {
-    alert("doubleClick Here")
+dbl.addEventListener("dblclick", function(){
+    alert("double Click Here");
 });
